@@ -2,4 +2,4 @@ import streamlit
 streamlit.title('My Parent New Heathly Diner')
 streamlit.header('Breakfast Menu')
 streamlit.text('Eggs and Beans')
-streamlit.test('Toast Water;)
+streamlit.test('Toast Water')
